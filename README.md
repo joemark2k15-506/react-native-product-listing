@@ -2,6 +2,14 @@
 
 This project is a React Native application built to fulfill the **Simple Product Listing Mobile App** task requirements. It demonstrates UI implementation, basic navigation, and API handling.
 
+## 📥 Download APK
+
+You can download the latest optimized release APK from the GitHub Releases page:
+
+**[▶️ Download Release APK](https://github.com/joemark2k15-506/react-native-product-listing/releases)**
+
+_(Note: You may need to create a Release in GitHub and upload `app-arm64-v8a-release.apk` there)_
+
 ## ✅ Task Features Implemented
 
 The following requirements from the task have been successfully implemented:
