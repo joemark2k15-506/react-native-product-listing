@@ -78,4 +78,26 @@ src/
 
 ---
 
+## 📋 Task Checklist & Status
+
+Below is the detailed progress and completion status of all project requirements:
+
+- [x] **Project Setup**: Initialized React Native & Expo project.
+- [x] **API Integration**: Integrated `fakestoreapi.com` for real product data.
+- [x] **Product List Screen**: Implemented with loading, error, and pull-to-refresh.
+- [x] **Product Detail Screen**: Deep-dive view with full descriptions and navigation.
+- [x] **Localization**:
+  - [x] USD to INR conversion.
+  - [x] Indian price formatting (`₹`).
+- [x] **UI/UX Refinement**:
+  - [x] `resizeMode="contain"` for perfect product images.
+  - [x] Clean white-themed product cards.
+- [x] **Performance Optimization**:
+  - [x] Applied **ABI Splits** to reduce app size by **~70%** (~40MB).
+  - [x] Fixed code package naming issues to enable release builds.
+- [x] **Native Assets**: Fixed App Icon and Splash screen via Expo prebuild.
+- [x] **Deployment**: Generated and verified Release APK.
+
+---
+
 Built with ❤️ using React Native & Expo
