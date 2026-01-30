@@ -57,3 +57,9 @@ yarn-error.log
 
 # testing
 /coverage
+
+# VS Code
+.vscode/
+
+# Native Android
+android/
