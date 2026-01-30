@@ -4,14 +4,7 @@ This project is a React Native application built to fulfill the **Simple Product
 
 ## 📥 Download APK
 
-**[🚀 Click to Download Optimized Release APK (Direct Link)](https://github.com/joemark2k15-506/react-native-product-listing/releases/latest/download/app-arm64-v8a-release.apk)**
-
-> [!IMPORTANT]
-> **To make this link work:** 
-> 1. Go to **Releases** on your GitHub repo.
-> 2. Create a **New Release** (e.g., version `v1.0.0`).
-> 3. Upload the file `app-arm64-v8a-release.apk` (found in `android/app/build/outputs/apk/release/`) to that release.
-> 4. Save the release.
+**[🚀 Click to Download Optimized Release APK (Direct Link)](https://github.com/joemark2k15-506/react-native-product-listing/raw/main/app.apk)**
 
 ---
 
